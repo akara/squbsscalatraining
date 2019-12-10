@@ -1,4 +1,4 @@
-# squbs Training for Scala Users
+# Akka on squbs Training for Scala Users
 
 ### Prerequisites
 
@@ -16,8 +16,6 @@
    *  Press `Continue`
 10. At this stage, IntelliJ will download and resolve all libraries needed for your project. Depending on network bandwidth, this can take 2 minutes to 3 hours (I’ve seen it sometimes when training in Chennai and some computers seem to just have a very slow network plus the low bandwidth locally). Let this finish.
 11. We should start the tutorial having their workspace ready.
-
-For more detail, please see [How to setup your development environment](https://engineering.paypalcorp.com/squbs/doc/Squbs/0.11.X/docs/mds/development_environment.md) from the squbs documentation.
 
 ### Getting Started
 

@@ -101,32 +101,13 @@
    * Monitoring
    * More goodies
 
-### rocksqubs
-* Internal PayPal extensions to squbs
-* ASF
-* CAL
-* Remote Config
-* DAL
-* HttpClient extensions
-* Kafka
-* Kernel
-* Mayfly
-* Metadata
-* Message producers and daemon architectures
-   * AMQ
-   * YAM
-   * Kafka
-* Pattern
-* Pipeline
-* ValidateInternals & Servlet engine
-
 ### How to get help?
 * Slack #help-squbs
 * https://gitter.im/paypal/squbs - for external questions/community
-* Documents are at http://squbs (internal) and https://squbs.readthedocs.io/en/latest/ (external). There is a link from https://github.com/paypal/squbs.
+* Documents are at https://squbs.readthedocs.io/en/latest/ (external). There is a link from https://github.com/paypal/squbs.
 * Akka documentation: http://akka.io/docs/ with links to JavaDoc
 
-### Lets create your first squbs app
-* Altus demo and allowing everybody to create the application
+### Lets create your first app
+* Seed demo allowing everyone to create app
 * Import application into IDE
 * Review the anatomy of the default application
